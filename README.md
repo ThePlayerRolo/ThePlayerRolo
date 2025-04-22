@@ -27,14 +27,15 @@
 
 <h2> Looking to Collabrate on:</h2>
 <ul>
-  <li><a  target="_blank" rel="noopener noreferrer" href = "https://github.com/ThePlayerRolo/HexagonHatArchive">Hexagon Hat Archive</li>
-  <li><a  target="_blank" rel="noopener noreferrer" href = "https://github.com/doldecomp/sms">Super Mario Sushine Decompilation</li>
+  <li><a  href = "https://github.com/ThePlayerRolo/HexagonHatArchive">Hexagon Hat Archive</li>
+  <li><a  href = "https://github.com/doldecomp/sms">Super Mario Sushine Decompilation</li>
 </ul>  
 
 <h2> How To Reach Me:</h2>
 <ul>
-  <li><a target="_blank" rel="noopener noreferrer" href = "https://mods.sm64coopdx.com/members/theplayerrolo.1650/">SM64 CoopDx Modsite</li>
-  <li><a target="_blank" rel="noopener noreferrer" href = "https://www.youtube.com/@ThePlayerRolo"><img src = "./images/Youtube.png"></li>
+  <li><a  href = "https://mods.sm64coopdx.com/members/theplayerrolo.1650/"><img src = "./images/SM64CoopDX.png"></li>
+  <li><a  href = "https://www.youtube.com/@ThePlayerRolo"><img src = "./images/Youtube.png"></li>
+  <li><a href = "https://gamebanana.com/members/3961509"> <img src = "./images/GameBanana.png"></li>
 </ul>  
 
 
