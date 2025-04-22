@@ -33,7 +33,7 @@
 
 <h2> How To Reach Me:</h2>
 <ul>
-  <li><a  href = "https://mods.sm64coopdx.com/members/theplayerrolo.1650/"><img src = "./images/SM64CoopDX.png"></li>
+  <li><a  href = "https://mods.sm64coopdx.com/members/theplayerrolo.1650/"><img src = "./SM64CoopDX.png"></li>
   <li><a  href = "https://www.youtube.com/@ThePlayerRolo"><img src = "./images/Youtube.png"></li>
   <li><a href = "https://gamebanana.com/members/3961509"> <img src = "./images/GameBanana.png"></li>
 </ul>  
