@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThePlayerRolo
+<h1>ThePlayerRolo's Project Shack</h1>
 - 👀 I’m interested in Jesus, Mario, Sonic, Rom hacking, Video making for Youtube, etc.
 - 🌱 I’m currently learning making Pokemon Emerald Decomp
 - 💞️ I’m looking to collaborate on IDK
